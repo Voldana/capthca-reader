@@ -1,5 +1,5 @@
 # capthca-reader
-This is the final project for the Fundamentals of Programming course held in fall of 2018.
+This is the final project for the Fundamentals of Programming course held in fall of 2018 written in C.
 
 The project aim was to use to a pre written library to process .BMP images and modify a database of letters in order to use them for recognizing patterns in a Captcha image.
 
